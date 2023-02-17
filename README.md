@@ -9,9 +9,14 @@ A brief description of your app goes here.
 
 ## Features
 
-- A Featured page that shows the most popular cars of the month. 
+- A Featured page that shows the most popular cars of the month 
 - Ability to let user favorate/ unfavorate cars
 - Each Car has multiple pictures and lots of information on price, engine, transmission, and interior specs
+
+## Future Features
+
+- Ability to let user create a profile, utitlizing aws cloud for authentication and storage
+- New view that provides track times for each car
 
 ## Requirements
 
