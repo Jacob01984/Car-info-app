@@ -2,8 +2,8 @@
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
 [![Xcode Version](https://img.shields.io/badge/Xcode-14.1-blue.svg)](https://developer.apple.com/xcode/)
-[![Platform](https://img.shields.io/badge/platform-iOS%2015.0%20%7C%20macOS%2012.0%20%7C%20watchOS%208.0%20%7C%20tvOS%2015.0-lightgrey.svg)](https://developer.apple.com/ios/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/<username>/<repo>/blob/main/LICENSE)
+[![Platform](https://img.shields.io/badge/platform-iOS%2015.0-lightgrey.svg)](https://developer.apple.com/ios/)
+
 
 A brief description of your app goes here.
 
